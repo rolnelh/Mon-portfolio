@@ -673,7 +673,7 @@ footer h1 {
     display: block;
   }
 
-  ul {
+  nav ul {
     position: absolute;
     width: 100%;
     height: calc(100vh - 85px);
